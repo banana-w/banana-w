@@ -1,4 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1fYi7IQLtBuRm2nPNo/giphy.gif" width="200" height="200"/>
+</div>
+
+---
+### :man_technologist: About Me
+
+- 👋 Hi, I'm @banana-w.
+  
+---
+### Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=banana-w&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **banana-w/banana-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
