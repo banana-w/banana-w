@@ -8,12 +8,12 @@
 - 👋 Hi, I'm @banana-w.
   
 ---
-### Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=banana-w&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+
 
 <!--
 **banana-w/banana-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Stats
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
